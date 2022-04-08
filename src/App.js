@@ -1,7 +1,7 @@
 
 import { Route, Switch } from "react-router-dom/cjs/react-router-dom.min";
 import About from "./about/About";
-import "./app.css"
+
 
 import Ho from "./home/Ho";
 
