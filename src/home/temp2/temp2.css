@@ -2,7 +2,10 @@
     background-color: none;
 }
 .temp2data{
-    background-color: rgb(240, 241, 241);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: #fff;
+    /* background-color: rgb(240, 241, 241); */
     width: 80%;
     
     text-align: center;
@@ -21,7 +24,7 @@
     text-align: center;
 }
 .gt h1, .co2 h1{
-    color: orangered;
+    color: rgb(255, 145, 0);
 }
 .aim h1, .sl h1{
     color: rgb(64, 64, 238);

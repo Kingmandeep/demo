@@ -14,7 +14,7 @@ const Temp2 = () => {
           <li>
             <div className="gt">
               <h3>Global Temprature</h3>
-              <h1> <i class="fa-solid fa-up-long"></i> 1.9 F</h1>
+              <h1> <i class="fa-solid fa-up-long"></i> 1.9 °F</h1>
               <p>since 2000</p>
             </div>
           </li>

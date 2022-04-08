@@ -11,18 +11,19 @@ const Header = () => {
 
         <div className="category">
         <ul>
-        <li> <Link to="/">Home</Link> </li>
-        <li> <Link to="/about">About</Link> </li>
-        <li> <Link to="/mission">Our Mission</Link> </li>
-        <li> <Link to="/pages">Pages</Link> </li>
-        <li> <Link to="/support">support</Link> </li>
+        <li> <Link to="/" className="link"><li>Home</li></Link> </li>
+        <li> <Link to="/about" className="link"><li>About</li></Link> </li>
+        <li> <Link to="/mission" className="link"><li>Mission</li></Link> </li>
+        <li> <Link to="/pages" className="link"><li>Pages</li></Link> </li>
+        <li> <Link to="/support" className="link"><li>support</li></Link> </li>
         
 
         </ul>
         </div>
         <div className="login">
-        <button className="contri"><i class="fa-solid fa-circle-dollar-to-slot"></i> Contribute</button>
-        <Link to="signin"> <button className="signin"><i class="fa-solid fa-right-to-bracket"></i> SignIn</button></Link>
+       
+        <Link to="contribute"> <button className="contri"><i class="fa-solid fa-circle-dollar-to-slot"></i>Contribute</button></Link>
+        <Link to="signin"> <button className="signin"><i class="fa-solid fa-right-to-bracket"></i> SignIn</button> </Link>
        
         </div>
       </div>

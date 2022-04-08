@@ -1,3 +1,7 @@
+.sign{
+  width: 80%;
+  margin-left: 10%;
+}
 input[type=text], input[type=password] {
     width: 80%;
     padding: 15px;

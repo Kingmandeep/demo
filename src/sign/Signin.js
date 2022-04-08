@@ -1,7 +1,7 @@
 import "./signin.css";
 const Signin = () => {
   return (
-    <>
+    <div className="sign">
       <form action="#" >
         <div class="container">
           <h1>Sign Up</h1>
@@ -61,7 +61,7 @@ const Signin = () => {
           </div>
         </div>
       </form>
-    </>
+    </div>
   );
 };
 
