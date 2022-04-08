@@ -45,7 +45,7 @@ const Signin = () => {
 
           <p>
             By creating an account you agree to our
-            <a href="#" >
+            <a href="/" >
               Terms & Privacy
             </a>
             .
