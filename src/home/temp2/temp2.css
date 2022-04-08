@@ -1,0 +1,141 @@
+.temp2{
+    background-color: none;
+}
+.temp2data{
+    background-color: rgb(240, 241, 241);
+    width: 80%;
+    
+    text-align: center;
+    margin-left: 10%;
+}
+.temp2data ul{
+    height: 20vh;
+    text-align: center;
+}
+.temp2data li{
+    margin-left: 2%;
+    margin-right: 2%;
+    list-style: none;
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+.gt h1, .co2 h1{
+    color: orangered;
+}
+.aim h1, .sl h1{
+    color: rgb(64, 64, 238);
+}
+.temp2data p{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(150, 148, 148);
+}
+.temp2data h3{
+    
+    color: rgb(92, 91, 91);
+}
+
+
+@media screen and (max-width: 1380px) {
+    .temp2{
+        background-color: none;
+    }
+    .temp2data{
+        background-color: rgb(240, 241, 241);
+        width: 80%;
+        
+        text-align: center;
+        margin-left: 10%;
+    }
+    .temp2data ul{
+        height: 15vh;
+        text-align: center;
+    }
+    .temp2data li{
+        margin-left: 2%;
+        margin-right: 2%;
+        list-style: none;
+        width: 20%;
+        float: left;
+        text-align: center;
+    }
+    .gt h1, .co2 h1{
+        color: orangered;
+    }
+    .aim h1, .sl h1{
+        color: rgb(64, 64, 238);
+    }
+    .temp2data p{
+        font-family: 'Open Sans', sans-serif;
+        color: rgb(150, 148, 148);
+    }
+    .temp2data h3{
+        
+        color: rgb(92, 91, 91);
+    }
+}
+@media screen and (max-width: 800px) {
+   
+    .temp2data{
+        width: 95%;
+        padding-bottom: 5px;
+        margin-left: 2%;
+    }
+    .temp2data ul{
+        height: 23vh;
+    }
+    
+    .temp2data li{
+        margin-left: 1.5%;
+        margin-right: 1.5%;
+        width: 20%;
+    }
+    .gt h1, .co2 h1{
+       
+        font-size: 14px;
+    }
+    .aim h1, .sl h1{
+      
+        font-size: 14px;
+    }
+    .temp2data p{
+       font-size: 8px;
+    }
+    .temp2data h3{
+        font-size: 12px;
+    }
+    
+    
+}
+@media screen and (max-width: 400px) {
+    
+    .temp2data{
+        width: 95%;
+        margin-left: 2%;
+    }
+    .temp2data ul{
+        height: 20vh;
+    }
+    
+    .temp2data li{
+        margin-left: 1.5%;
+        margin-right: 1.5%;
+        width: 20%;
+    }
+    .gt h1, .co2 h1{
+       
+        font-size: 14px;
+    }
+    .aim h1, .sl h1{
+      
+        font-size: 14px;
+    }
+    .temp2data p{
+       font-size: 8px;
+    }
+    .temp2data h3{
+        font-size: 12px;
+    }
+    
+    
+}

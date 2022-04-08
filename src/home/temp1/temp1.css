@@ -1,0 +1,204 @@
+.temp{
+    margin-top: 25px;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+    height: 70vh;
+}
+.templ{
+    width: 50%;
+    float: left;
+    height: 60vh;
+    
+    
+}
+.templ img{
+    width: 100%;
+    height: 60vh;
+}
+.tempr{
+    float: left;
+}
+
+.tempr{
+    margin-top: 38px;
+    width: 35%;
+    margin-left: 10%;
+    text-align: center;
+}
+.tempr h1{
+    color: rgb(129, 129, 129);
+    letter-spacing: 1px;
+    font-weight: 900;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    letter-spacing: 1px;
+}
+.tempr p{
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: rgb(136, 136, 136);
+}
+
+.btns{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 25px;
+    float: left;
+    text-align: center;
+}
+.btns button{
+    width: 40%;
+    height: 39px;
+    margin: 1%;
+}
+.our{
+    font-family: 'Roboto', sans-serif;
+    background-color: orangered;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+    color: #fff;
+}
+.our:hover{
+    background-color: rgb(255, 145, 0);
+}
+.down{
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff ;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    color: rgb(103, 103, 250);
+    cursor: pointer;
+}
+.down:hover{
+    background-color: rgb(177, 174, 174);
+    color: #fff;
+}
+
+@media screen and (max-width: 1380px) {
+    .temp{
+        margin-top: 2%;
+        padding-left: 2%;
+        padding-right: 2%;
+        height: 35vh;
+    }
+    .templ{
+        height: 30vh; 
+    }
+    .templ img{
+        width: 110%;
+        height: 30vh;
+    }
+   
+    .tempr{
+        margin-top: 28px;
+        width: 38%;
+        margin-left: 7%;
+    }
+    .tempr h1{
+        font-size: 18px;
+    }
+    .tempr p{
+        font-size: 10px;
+    }
+    
+    .btns{
+        width: 150%;
+        margin-left: 5%;
+        margin-top: 5px;
+       
+    }
+    .btns button{
+        width: 80px;
+        height: 59px;
+        margin: 2%;
+        font-size: 6px;
+    }
+}
+@media screen and (max-width: 800px) {
+    .temp{
+        margin-top: 10%;
+        padding-left: 2%;
+        padding-right: 2%;
+        height: 50vh;
+    }
+    .templ{
+        height: 30vh; 
+    }
+    .templ img{
+        width: 110%;
+        height: 35vh;
+    }
+   
+    .tempr{
+        margin-top: 2px;
+        width: 38%;
+        margin-left: 7%;
+    }
+    .tempr h1{
+        font-size: 18px;
+    }
+    .tempr p{
+        font-size: 10px;
+    }
+    
+    .btns{
+        width: 150%;
+        margin-left: 5%;
+        margin-top: 5px;
+       
+    }
+    .btns button{
+        width: 80px;
+        height: 59px;
+        margin: 2%;
+        font-size: 6px;
+    }
+}
+@media screen and (max-width: 400px) {
+    .temp{
+        padding-left: 2%;
+        padding-right: 2%;
+        height: 40vh;
+    }
+    .templ{
+        height: 30vh; 
+    }
+    .templ img{
+        height: 25vh;
+    }
+   
+    .tempr{
+        margin-top: 2px;
+        width: 38%;
+        margin-left: 7%;
+    }
+    .tempr h1{
+        font-size: 14px;
+    }
+    .tempr p{
+        font-size: 10px;
+    }
+    
+    .btns{
+        width: 120%;
+        margin-left: 5%;
+        margin-top: 5px;
+       
+    }
+    .btns button{
+        width: 60px;
+        height: 59px;
+        margin: 2%;
+        font-size: 5px;
+    }
+}

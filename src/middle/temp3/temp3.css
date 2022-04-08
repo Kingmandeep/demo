@@ -1,0 +1,146 @@
+.temp3{
+    margin-top: 25px;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+    height: 70vh;
+}
+
+
+
+.temp3l{
+    float: left;
+    margin-top: 10%;
+    width: 35%;
+    margin-left: 5%;
+    text-align: center;
+}
+
+.temp3l p{
+    text-align: left;
+    margin-bottom: 2px;
+    padding-bottom: 10px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: rgb(136, 136, 136);
+}
+
+.btns{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 25px;
+    float: left;
+    text-align: center;
+}
+.btns button{
+    width: 40%;
+    height: 39px;
+    margin: 1%;
+}
+.our{
+    font-family: 'Roboto', sans-serif;
+    background-color: orangered;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+    color: #fff;
+}
+.our:hover{
+    background-color: rgb(255, 145, 0);
+}
+.temp3r{
+    width: 50%;
+    float: right;
+    height: 60vh;
+    
+    
+}
+.temp3r img{
+    width: 100%;
+    height: 60vh;
+}
+
+
+
+@media screen and (max-width: 780px) {
+    .temp3{
+        margin-top: 20px;
+        padding-left: 5%;
+        padding-right: 5%;
+        
+        height: 40vh;
+    }
+    
+    
+    
+    .temp3l{
+        margin-top: 5%;
+        width: 36%;
+    }
+    
+    .temp3l p{
+        margin-bottom: 2px;
+        padding-bottom: 0px;
+        font-size: 10px;
+    }
+    
+    .btns{
+        width: 100%;
+        margin-left: 10%;
+        margin-top: 25px;
+    }
+    .btns button{
+        width: 60%;
+        height: 30px;
+    }
+   
+    .temp3r{
+        height: 30vh;
+    }
+    .temp3r img{
+        height: 48vh;
+    }
+}
+@media screen and (max-width: 400px) {
+    .temp3{
+        margin-top: 5px;
+        padding-left: 5%;
+        padding-right: 5%;
+        
+        height: 40vh;
+    }
+    
+    
+    
+    .temp3l{
+        margin-top: 5%;
+        width: 36%;
+    }
+    
+    .temp3l p{
+        margin-bottom: 2px;
+        padding-bottom: 0px;
+        font-size: 10px;
+    }
+    
+    .btns{
+        width: 100%;
+        margin-left: 10%;
+        margin-top: 25px;
+    }
+    .btns button{
+        width: 60%;
+        height: 30px;
+    }
+   
+    .temp3r{
+        height: 30vh;
+    }
+    .temp3r img{
+        height: 30vh;
+    }
+}
