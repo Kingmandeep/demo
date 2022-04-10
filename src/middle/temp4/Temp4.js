@@ -3,7 +3,7 @@ const Temp4 = () =>{
     return(
         <div className="temp4">
         <div className="temp44">
-        <img src="https://t4.ftcdn.net/jpg/02/94/13/25/360_F_294132571_7fOobyA54ivu4kmEBmQzcWx41lCKYNPW.jpg" alt=""/>
+        <img src="https://royalsociety.org/js/infographics/rs-machine-2//img/scenery/rs__pond-sec4.gif" alt=""/>
         </div>
         </div>
     )

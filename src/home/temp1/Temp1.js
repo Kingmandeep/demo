@@ -7,7 +7,7 @@ const Temp1 = () =>{
         <div className="temp">
       
         <div className="templ">
-        <img src="https://cf.ltkcdn.net/greenliving/images/std/225070-800x534r1-Environmental-Pollution-Concept.jpg" alt=""/>
+        <img src="https://www.arborday.org/kids/photosynthesis/images/7.gif" alt=""/>
         </div>
         <div className="tempr">
         <h1>We SafeGuard the <br></br><TypeWriterEffect

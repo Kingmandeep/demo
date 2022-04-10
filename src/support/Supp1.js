@@ -5,7 +5,7 @@ const Supp1 = () =>{
         <div className="simg">
         <img
             style={{ width: "60%", margin: "5px 22%" }}
-            src="https://ilquotidianoinclasse.quotidiano.net/wp-content/uploads/2018/01/f894427cc1c571f79da49605ef8b112f.png"
+            src="https://cdn.dribbble.com/users/2424870/screenshots/9659021/media/afa2e4e9d027106ceeec76c7917d3d3b.gif"
             alt=""
           />
         </div>

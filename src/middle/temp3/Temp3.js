@@ -13,7 +13,7 @@ const Temp3 = () =>{
         </div>
         </div>
         <div className="temp3r">
-        <img src="https://media.istockphoto.com/vectors/recycling-concept-cartoon-characters-protect-environment-sorting-vector-id1180827183?k=20&m=1180827183&s=170667a&w=0&h=KITNc10OpNEP3OHcyreAr9xbzMUSEYRdJfTBEftu7Do=" alt=""/>
+        <img src="https://www.hillsnursery.in/wp-content/uploads/2019/01/green_curci_tree.gif" alt=""/>
         </div>
         </div>
     )

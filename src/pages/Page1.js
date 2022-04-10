@@ -6,7 +6,7 @@ const Page1 = () =>{
         <div className="pimg">
         <img
             style={{ width: "60%", margin: "5px 22%" }}
-            src=" https://www.kindpng.com/picc/m/57-574537_studies-clipart-school-student-study-students-studying-cartoon.png"
+            src=" https://cdn.dribbble.com/users/369527/screenshots/4023236/pietrasiak_leafs_animation.gif"
             alt=""
           />
         </div>
